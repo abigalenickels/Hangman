@@ -1,0 +1,8 @@
+﻿  game.cpp
+C:\Users\abiga\OneDrive\Desktop\My Projects\Hangman\Hangman\game.cpp(72,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\abiga\OneDrive\Desktop\My Projects\Hangman\Hangman\game.cpp(126,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\abiga\OneDrive\Desktop\My Projects\Hangman\Hangman\game.cpp(144,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\abiga\OneDrive\Desktop\My Projects\Hangman\Hangman\game.cpp(284,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\abiga\OneDrive\Desktop\My Projects\Hangman\Hangman\game.cpp(291,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\abiga\OneDrive\Desktop\My Projects\Hangman\Hangman\game.cpp(343,20): warning C4018: '<': signed/unsigned mismatch
+  Hangman.vcxproj -> C:\Users\abiga\OneDrive\Desktop\My Projects\Hangman\Debug\Hangman.exe
