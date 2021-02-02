@@ -364,6 +364,7 @@ void clear()
 
 int main ()
 {
+	cout << "THIS IS THE TEST BRANCH!!" << endl << endl;
 	/////////////////////////
 	//// INITIALIZE GAME ////
 	/////////////////////////
